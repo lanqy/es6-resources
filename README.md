@@ -9,4 +9,5 @@ A list of  es6 resources
 * <a href="http://help.wtf/es6">es6</a>
 * <a href="http://exploringjs.com/es6/">Exploring ES6</a>
 * <a href="http://es6.ruanyifeng.com/">ECMAScript 6 Introduction</a>
+* <a href="https://github.com/hemanth/paws-on-es6">paws-on-es6</a>
 * <a href="https://github.com/getify/You-Dont-Know-JS">You don't know js</a>

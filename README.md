@@ -1,5 +1,5 @@
 # es6-resources
-	A list of  es6 resources
+A list of  es6 resources
 ### list
 * <a href="https://ponyfoo.com/articles/tagged/es6-in-depth">es6 in depth</a>
 * <a href="https://github.com/lukehoban/es6features">es6features</a>
